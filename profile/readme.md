@@ -8,4 +8,4 @@
 **Cutting-Edge Interdisciplinary Research Team**  
 Focusing on complex systems, causal analysis, information flow, neural networks, and multi-scale dynamics of the atmosphere and ocean, along with their prediction. We are committed to exploring scientific frontiers and driving interdisciplinary innovation.  
 
-🌐 **Official Website:** [NCOADS](http://www.ncoads.cn/)  
+🌐 **Official Website:** [NCOADS](http://www.ncoads.org/)  
